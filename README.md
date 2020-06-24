@@ -12,5 +12,7 @@ S&P 500 Annualized Returns as of 6/23/20: 11.11%
 
 Source:
 Years 1980-2013: https://etfdb.com/history-of-the-s-an...
+
 Years 2014 - 2019: https://siblisresearch.com/data/marke...
+
 Year 2020: Manually calculated as of 6/22/2020
